@@ -1,6 +1,6 @@
 # Todo-Js
 
-Just playing with HTML/CSS/JS
+Project where I played with HTML/CSS/JS.
 
 WILL FINISH THE REST OF THE CODE NEXT WEEK
 
