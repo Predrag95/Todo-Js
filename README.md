@@ -8,4 +8,4 @@ You add todo divs to the bottom of the search bar. You can also delete them or m
 
  
 Check it out here: https://predrag95.github.io/Todo-Js/ 
- 
+  
